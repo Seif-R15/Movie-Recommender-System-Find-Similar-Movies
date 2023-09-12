@@ -23,4 +23,4 @@ Follow these steps to get started with the Movie Recommender System:
 
 2. **Run the recommender system:**
    ```bash
-   python 
+   python movie-similarities-dataframe.py
