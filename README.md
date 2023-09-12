@@ -26,4 +26,4 @@ Follow these steps to get started with the Movie Recommender System:
    spark - submit movie-similarities-dataframe.py
 
 3. ## **The Output:**
-   ![Image Description](Screenshot716).
+   ![Image Description](Screenshot.png).
