@@ -25,5 +25,5 @@ Follow these steps to get started with the Movie Recommender System:
    ```bash
    spark - submit movie-similarities-dataframe.py
 
-3. **The Output:**
-   
+3. ## **The Output:**
+   ![Image Description](Screenshot (716).png)
