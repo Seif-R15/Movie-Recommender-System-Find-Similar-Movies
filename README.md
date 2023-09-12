@@ -20,3 +20,7 @@ Follow these steps to get started with the Movie Recommender System:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Seif-R15/Movie-Recommender-System-Find-Similar-Movies.git
+
+2. **Run the recommender system:**
+   ```bash
+   python 
