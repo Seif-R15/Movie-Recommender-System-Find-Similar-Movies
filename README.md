@@ -2,17 +2,20 @@
 
 ![Image Description](https://production-media.paperswithcode.com/datasets/MovieLens-0000000331-d5657d5d_KgRuquW.jpg)
 
-A movie recommender system that helps users find similar movies based on various factors like genre, actors, and ratings. This project leverages machine learning algorithms to provide accurate and personalized movie recommendations.
+Collaborative filtering: The system utilizes collaborative filtering algorithms to identify similar movies based on user ratings and preferences.
+Spark SQL integration: Spark SQL is used to perform efficient data processing and querying, enabling faster and scalable recommendations.
+User preferences: Users can provide their movie preferences, such as genres, actors, or ratings, to receive personalized movie recommendations.
+Large-scale dataset support: The system is designed to handle large-scale movie datasets, allowing it to scale and provide accurate recommendations even with extensive data.
+Data visualization: The project includes visualizations of movie ratings, genre distributions, and user preferences using Spark SQL's data visualization capabilities.
+
+A movie recommender system built using Spark SQL, which provides recommendations for similar movies based on user preferences and collaborative filtering techniques. The system leverages the power of Spark's distributed computing framework to handle large-scale datasets efficiently.
 
 # Features
-- Movie similarity: The system calculates similarities between movies using collaborative filtering techniques and content-based filtering approaches.
-
-- User preferences: Users can provide their preferences, such as favorite genres, actors, and ratings, to receive tailored movie recommendations.
-
-- Recommendation generation: The system generates a list of recommended movies based on user input and historical data, providing suggestions for undiscovered films.
-
-- Data visualization: The project includes visualizations of movie ratings, genre distributions, and user preferences to enhance understanding and exploration.
-
+Collaborative filtering: The system utilizes collaborative filtering algorithms to identify similar movies based on user ratings and preferences.
+Spark SQL integration: Spark SQL is used to perform efficient data processing and querying, enabling faster and scalable recommendations.
+User preferences: Users can provide their movie preferences, such as genres, actors, or ratings, to receive personalized movie recommendations.
+Large-scale dataset support: The system is designed to handle large-scale movie datasets, allowing it to scale and provide accurate recommendations even with extensive data.
+Data visualization: The project includes visualizations of movie ratings, genre distributions, and user preferences using Spark SQL's data visualization capabilities.
 
 
 
